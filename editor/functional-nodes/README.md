@@ -1,0 +1,6 @@
+---
+icon: messages
+---
+
+# Functional Nodes
+
