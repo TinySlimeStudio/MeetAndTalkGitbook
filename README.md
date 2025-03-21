@@ -24,6 +24,12 @@ layout:
 
 # Welcome to Meet and Talk
 
+{% hint style="info" %}
+### Beta Documentation
+
+The complete documentation should be available by the upcoming weekend, and the updated version will be included in the upcoming 2.0.0b update.
+{% endhint %}
+
 Meet and Talk is a powerful and intuitive dialogue system that enables you to create complex and interactive conversations using a graphical editor. With an advanced branching system, you can design dynamic dialogue paths that adapt to player choices and influence in-game events.
 
 ## Support Tiny Slime Studio!
