@@ -18,7 +18,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="../../.gitbook/assets/MT_Node_Start_Gizmo.png" alt="" width="128"><figcaption><p>Icon</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Zrzut ekranu (79).png" alt="" width="563"><figcaption><p>Node in Dialogue Editor</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/MT_Node_Start_Gizmo.png" alt="" width="128"><figcaption><p>Icon</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Graph_Start.png" alt="" width="563"><figcaption><p>Node in Dialogue Editor</p></figcaption></figure></div>
 
 Dialogue Start is a node that defines the starting point of a dialogue. It is required in every dialogue. If a dialogue contains more than one Dialogue Start, it allows selecting or randomly determining the starting point.
 

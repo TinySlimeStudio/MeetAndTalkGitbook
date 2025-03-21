@@ -16,7 +16,7 @@ layout:
 
 # Dialogue Time Choice
 
-<div><figure><img src="../../.gitbook/assets/MT_Node_Timer_Gizmo.png" alt="" width="128"><figcaption><p>Icon</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Zrzut ekranu (82).png" alt="" width="563"><figcaption><p>Dialogue Start in Dialogue Editor</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/MT_Node_Timer_Gizmo.png" alt="" width="128"><figcaption><p>Icon</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Graph_TimeChoice.png" alt="" width="563"><figcaption><p>Dialogue Start in Dialogue Editor</p></figcaption></figure></div>
 
 {% hint style="info" %}
 #### This Featureis available only in the **Pro Version**

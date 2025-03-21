@@ -16,7 +16,7 @@ layout:
 
 # Dialogue Node
 
-<div><figure><img src="../../.gitbook/assets/MT_Node_Dialogue_Gizmo.png" alt="" width="128"><figcaption><p>Icon</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Zrzut ekranu (80).png" alt="" width="563"><figcaption><p>Dialogue Start in Dialogue Editor</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/MT_Node_Dialogue_Gizmo.png" alt="" width="128"><figcaption><p>Icon</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Graph_Dialogue.png" alt="" width="563"><figcaption><p>Dialogue Start in Dialogue Editor</p></figcaption></figure></div>
 
 Dialogue Node is the primary node for displaying text in a dialogue and is likely the most frequently used node.
 
