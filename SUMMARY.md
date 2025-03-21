@@ -9,7 +9,9 @@
 
 ## Editor
 
-* [Dialogue Editor](editor/dialogue-editor.md)
+* [Dialogue Editor](editor/dialogue-editor/README.md)
+  * [Dialogue Inspector](editor/dialogue-editor/dialogue-inspector.md)
+  * [Node Design](editor/dialogue-editor/node-design.md)
 * [Base Nodes](editor/base-nodes/README.md)
   * [Dialogue Start](editor/base-nodes/dialogue-start.md)
   * [Dialogue Node](editor/base-nodes/dialogue-node.md)
