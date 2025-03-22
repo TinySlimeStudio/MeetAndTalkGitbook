@@ -4,8 +4,6 @@ icon: language
 
 # Import / Export CSV Localization File
 
-<figure><img src="../.gitbook/assets/MAT_Pro.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 ### This Featureis available only in the **Pro Version**
 

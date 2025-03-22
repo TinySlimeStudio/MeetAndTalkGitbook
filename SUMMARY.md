@@ -10,7 +10,6 @@
 ## Editor
 
 * [Dialogue Editor](editor/dialogue-editor/README.md)
-  * [Dialogue Inspector](editor/dialogue-editor/dialogue-inspector.md)
   * [Node Design](editor/dialogue-editor/node-design.md)
 * [Base Nodes](editor/base-nodes/README.md)
   * [Dialogue Start](editor/base-nodes/dialogue-start.md)
@@ -38,6 +37,8 @@
 * [Manage Localization System](how-to/manage-localization-system.md)
 * [Setup Global Value](how-to/setup-global-value.md)
 * [Import / Export CSV Localization File](how-to/import-export-csv-localization-file.md)
+* [Auto-Translate Dialogue](how-to/auto-translate-dialogue.md)
+* [Create New Event](how-to/create-new-event.md)
 
 ## Integration
 

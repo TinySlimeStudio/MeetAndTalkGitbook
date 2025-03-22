@@ -3,6 +3,20 @@ description: by ThunderWire Studio
 icon: display-arrow-down
 cover: ../.gitbook/assets/90b2818d-365e-43c7-9405-66e53df2473a.webp
 coverY: 0
+layout:
+  cover:
+    visible: false
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # UHFPS - Ultimate Horror FPS

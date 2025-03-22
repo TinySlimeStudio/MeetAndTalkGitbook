@@ -24,7 +24,7 @@ layout:
 
 # Welcome to Meet and Talk
 
-{% hint style="info" %}
+{% hint style="warning" %}
 ### Beta Documentation
 
 The complete documentation should be available by the upcoming weekend, and the updated version will be included in the upcoming 2.0.0b update.

@@ -4,13 +4,11 @@ icon: message-plus
 
 # Create New Dialogue
 
-
-
 {% stepper %}
 {% step %}
 ### Crate Dialogue Container SO
 
-In the Hierarchy tab, right-click, in the pop-up window hover over the `Create` option, hover over the `Dialog` option and click `New Dialogue`
+In the Hierarchy tab, right-click, in the pop-up window hover over the <mark style="color:blue;">Create</mark> option, hover over the <mark style="color:blue;">Dialogue</mark> option and click <mark style="color:blue;">New Dialogue</mark>
 {% endstep %}
 
 {% step %}
@@ -39,3 +37,8 @@ In Editor Settings, you can enable Autosave, removing the need to manually save 
 {% endhint %}
 {% endstep %}
 {% endstepper %}
+
+### Sample Dialogue
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
